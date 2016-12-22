@@ -1,5 +1,4 @@
-# countmoney-apk
-CountMoney
+# Countmoney-apk
 
 CountMoney te permite verificar la 
 cantidad de billetes de un valor determinado.
